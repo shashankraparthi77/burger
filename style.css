@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.out1{
+    border: solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width: 100px;
+    margin-left: 100px;
+}
+#in2{
+    width: 550px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 108px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+}
+ul li a{
+    font-size: 21px;
+    text-decoration: none;
+    font-weight: bond;
+    color: white;
+}
+ul li a:hover{
+    color: orangered;
+    font-size: 23px;
+}
+.out2{
+    border: solid 1px;
+    height: 700px;
+    background-image: url(pp.avif);
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+}
+#welcome{
+    color: white;
+    font-size: 50px;
+    margin-left: 40px;
+    margin-top: 50pxx;
+    text-shadow: 10px white;
+}
+#taste{
+    color: white;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 23px;
+    text-shadow: 25px;
+}
+#menu{
+    margin-left: 70px;
+    margin-top: 20px;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(224, 81, 28);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+#menu:hover{
+    background-color: gold;
+}
+.out3{
+    border: solid 1px;
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 400px;
+}
+#in3{
+    width: 450px;
+}
+#in4{
+    width: 600px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 40px;
+    color: white;
+}
+#text1{
+    font-size: 20px;
+    color: white;
+}
+.out4{
+    border: solid 1px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#img1,#img3{
+    margin-top: 70px;
+}
+#img2{
+    margin-top: 30px;
+}
+#menu1{
+    color: white;
+    text-align: center;
+}
+#menu2{
+    color: white;
+    font-size: 18px;
+}
